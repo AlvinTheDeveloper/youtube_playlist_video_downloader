@@ -1,0 +1,13 @@
+{
+    "name": "youtube_videos_downloader",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "Lau Yat Hay",
+    "description": "A tool that allows us to download all youtube videos of a youtube playlist with help of youtube-dl and Youtube Data API.",
+    "dependencies": {
+        "axios": "^0.20.0",
+        "csv-parse": "^4.12.0",
+        "youtube-dl": "^3.0.2"
+    }
+}
