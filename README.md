@@ -1,6 +1,14 @@
 <h1>Usage</h1>
 <ol>
-  <li><h3>Install Node.js</h3></li>
+  <li><h3>Install Node.js and Git</h3></li>
+  <li>
+    <p><h3>Run command:</h3></p>
+    <code>
+      <h4>git clone https://github.com/AlvinTheDeveloper/youtube_playlist_video_downloader.git</h4>
+      <h4>cd youtube_playlist_video_downloader</h4>
+      <h4>npm i</h4>
+    </code>
+  </li>
   <li>
     <p><h3>Create a config.json</h3></p>
     <p><h4>Clone the config.sample.json in the config folder and rename the file created to config.json. Then, replace the text YOUR_API_KEY into your Youtube API key.</h4></p>
