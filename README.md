@@ -1,4 +1,4 @@
-<h1>Useage</h1>
+<h1>Usage</h1>
 <ol>
   <li><h3>Install Node.js</h3></li>
   <li>
